@@ -1,0 +1,14 @@
+C:\Users\nurla\OneDrive\Desktop\AB202 task\StructNullableIndexernEnum\StructNullableIndexernEnumTask\bin\Debug\net6.0\StructNullableIndexernEnumTask.exe
+C:\Users\nurla\OneDrive\Desktop\AB202 task\StructNullableIndexernEnum\StructNullableIndexernEnumTask\bin\Debug\net6.0\StructNullableIndexernEnumTask.deps.json
+C:\Users\nurla\OneDrive\Desktop\AB202 task\StructNullableIndexernEnum\StructNullableIndexernEnumTask\bin\Debug\net6.0\StructNullableIndexernEnumTask.runtimeconfig.json
+C:\Users\nurla\OneDrive\Desktop\AB202 task\StructNullableIndexernEnum\StructNullableIndexernEnumTask\bin\Debug\net6.0\StructNullableIndexernEnumTask.dll
+C:\Users\nurla\OneDrive\Desktop\AB202 task\StructNullableIndexernEnum\StructNullableIndexernEnumTask\bin\Debug\net6.0\StructNullableIndexernEnumTask.pdb
+C:\Users\nurla\OneDrive\Desktop\AB202 task\StructNullableIndexernEnum\StructNullableIndexernEnumTask\obj\Debug\net6.0\StructNullableIndexernEnumTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurla\OneDrive\Desktop\AB202 task\StructNullableIndexernEnum\StructNullableIndexernEnumTask\obj\Debug\net6.0\StructNullableIndexernEnumTask.AssemblyInfoInputs.cache
+C:\Users\nurla\OneDrive\Desktop\AB202 task\StructNullableIndexernEnum\StructNullableIndexernEnumTask\obj\Debug\net6.0\StructNullableIndexernEnumTask.AssemblyInfo.cs
+C:\Users\nurla\OneDrive\Desktop\AB202 task\StructNullableIndexernEnum\StructNullableIndexernEnumTask\obj\Debug\net6.0\StructNullableIndexernEnumTask.csproj.CoreCompileInputs.cache
+C:\Users\nurla\OneDrive\Desktop\AB202 task\StructNullableIndexernEnum\StructNullableIndexernEnumTask\obj\Debug\net6.0\StructNullableIndexernEnumTask.dll
+C:\Users\nurla\OneDrive\Desktop\AB202 task\StructNullableIndexernEnum\StructNullableIndexernEnumTask\obj\Debug\net6.0\refint\StructNullableIndexernEnumTask.dll
+C:\Users\nurla\OneDrive\Desktop\AB202 task\StructNullableIndexernEnum\StructNullableIndexernEnumTask\obj\Debug\net6.0\StructNullableIndexernEnumTask.pdb
+C:\Users\nurla\OneDrive\Desktop\AB202 task\StructNullableIndexernEnum\StructNullableIndexernEnumTask\obj\Debug\net6.0\StructNullableIndexernEnumTask.genruntimeconfig.cache
+C:\Users\nurla\OneDrive\Desktop\AB202 task\StructNullableIndexernEnum\StructNullableIndexernEnumTask\obj\Debug\net6.0\ref\StructNullableIndexernEnumTask.dll
